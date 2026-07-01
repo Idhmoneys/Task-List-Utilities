@@ -31,7 +31,7 @@ countIncompleteTasks(tasks);
 ## Link to roadmap projects:
 ***Main Project: [Roadmap Task-List-Utilities Project](https://roadmap.sh/projects/js-task-list-utilities)***
 
-***My Solution: [Idhm Solution](https://roadmap.sh/projects/js-grade-report-generator/solutions?u=6a41080523088a0480d07385)***
+***My Solution: [Idhm Solution](https://roadmap.sh/projects/js-task-list-utilities/solutions?u=6a41080523088a0480d07385)***
 
 ## Made by
 ***Github: [@Idhmoneys](https://github.com/Idhmoneys)***
